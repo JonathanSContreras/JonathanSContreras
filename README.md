@@ -3,7 +3,7 @@ I'm a junior computer science student passionate about low-level computer archit
 
 * I’m currently working on a full-stack web application for my church, a full-stack web application for my portfolio, and a collaborative data analytics project with Houston Christian University and the Houston Fire Deparment.
 * I’m looking to collaborate on Raspberry Pi projects, innovative web applications, and any project that can make a real-world impact.
-* I’m looking for help with...<br>Exploring better ways to secure web applications, leveraging MariaDB effectively in my WordPress setup, and brainstorming ideas for engaging hackathon challenges.
+* I’m looking for help with exploring better ways to secure web applications, leveraging MariaDB effectively in my WordPress setup, and brainstorming ideas for engaging hackathon challenges.
 * I’m currently learning Full-stack development (with a focus on the front-end development, computer network security, and creative ways to integrate hardware and software with Raspberry Pi.
 * Ask me about WordPress development, managing a development workflow with GitHub, network security concepts, or cool hackathon ideas!
 * Fun fact: I am a musician and play about 6 instruments with my primary being piano. I can not cite read, instead I can play any song by ear.
