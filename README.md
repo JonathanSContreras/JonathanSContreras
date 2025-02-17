@@ -1,13 +1,32 @@
-# 💫 About Me:
-I'm a junior computer science student passionate about low-level computer architecture, network security, and software development.
+🚀 **Junior Computer Science Student | Developer | Security Enthusiast**  
 
-* I’m currently working on a full-stack web application for my church, a full-stack web application for my portfolio, and a collaborative data analytics project with Houston Christian University and the Houston Fire Deparment.
-* I’m looking to collaborate on Raspberry Pi projects, innovative web applications, and any project that can make a real-world impact.
-* I’m looking for help with exploring better ways to secure web applications, leveraging MariaDB effectively in my WordPress setup, and brainstorming ideas for engaging hackathon challenges.
-* I’m currently learning Full-stack development (with a focus on the front-end development, computer network security, and creative ways to integrate hardware and software with Raspberry Pi.
-* Ask me about WordPress development, managing a development workflow with GitHub, network security concepts, or cool hackathon ideas!
-* Fun fact: I am a musician and play about 6 instruments with my primary being piano. I can not cite read, instead I can play any song by ear.
+I'm deeply passionate about **low-level computer architecture, network security, and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
 
+### 🔨 **What I’m Working On:**  
+- **Full-Stack Web App for My Church** – A bilingual (English/Spanish) platform to serve the community.  
+- **Personal Portfolio Web App** – Showcasing my skills and projects.  
+- **Collaborative Data Analytics Project** – Partnering with **Houston Christian University** and the **Houston Fire Department** to drive data-driven insights.  
+
+### 💡 **Looking to Collaborate On:**  
+- **Raspberry Pi Projects** – Exploring creative hardware-software integrations.  
+- **Innovative Web Applications** – Especially those with real-world impact.  
+- **Security & Optimization** – Finding better ways to secure web applications and optimize **MariaDB** in my **WordPress** setup.  
+- **Hackathons!** – Brainstorming engaging and challenging hackathon ideas.  
+
+### 📚 **Currently Learning:**  
+- **Full-Stack Development** (with a front-end focus)  
+- **Computer Network Security**  
+- **Creative Hardware-Software Integrations (Raspberry Pi)**  
+
+### 🎯 **Ask Me About:**  
+- **WordPress Development** – Custom plugins, security, and optimization.  
+- **Managing Dev Workflows with GitHub** – Best practices for collaboration.  
+- **Network Security Concepts** – Secure coding, threat modeling, and more.  
+- **Hackathon Ideas** – I love brainstorming engaging challenges!  
+
+🎵 **Fun Fact:** I’m a multi-instrumentalist (about **6 instruments**), but my primary love is the **piano**. I **can’t sight-read**, but I can play any song by ear!  
+
+Let’s connect and build something awesome! 🚀  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jonathan.contreras) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanscontreras) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@uhhhjonny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathansaulcontreras@gmail.com) 
