@@ -5,7 +5,6 @@ I'm deeply passionate about **low-level computer architecture, network security,
 ### 🔨 **What I’m Working On:**  
 - **Full-Stack Web App for My Church** – A bilingual (English/Spanish) platform to serve the community.  
 - **Personal Portfolio Web App** – Showcasing my skills and projects.  
-- **Collaborative Data Analytics Project** – Partnering with **Houston Christian University** and the **Houston Fire Department** to drive data-driven insights.  
 
 ### 💡 **Looking to Collaborate On:**  
 - **Raspberry Pi Projects** – Exploring creative hardware-software integrations.  
@@ -14,12 +13,11 @@ I'm deeply passionate about **low-level computer architecture, network security,
 - **Hackathons!** – Brainstorming engaging and challenging hackathon ideas.  
 
 ### 📚 **Currently Learning:**  
-- **Full-Stack Development** (with a front-end focus)  
+- **Full-Stack Development**
 - **Computer Network Security**  
 - **Creative Hardware-Software Integrations (Raspberry Pi)**  
 
 ### 🎯 **Ask Me About:**  
-- **WordPress Development** – Custom plugins, security, and optimization.  
 - **Managing Dev Workflows with GitHub** – Best practices for collaboration.  
 - **Network Security Concepts** – Secure coding, threat modeling, and more.  
 - **Hackathon Ideas** – I love brainstorming engaging challenges!  
