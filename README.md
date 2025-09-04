@@ -1,4 +1,4 @@
-🚀 **Junior Computer Science Student | Developer | Security Enthusiast**  
+🚀 **Senior Computer Science Student | Developer | Security Enthusiast**  
 
 I'm deeply passionate about **low-level computer architecture, network security, and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
 
