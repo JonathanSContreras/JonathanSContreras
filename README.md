@@ -1,6 +1,6 @@
 🚀 **Senior Computer Science Student | Developer | Security Enthusiast**  
 
-I'm deeply passionate about **low-level computer architecture, network security, and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
+I'm deeply passionate about **network security and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
 
 ### 🔨 **What I’m Working On:**  
 - **Full-Stack Web App for My Church** – A bilingual (English/Spanish) platform to serve the community.  
