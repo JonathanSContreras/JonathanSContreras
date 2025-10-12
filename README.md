@@ -1,10 +1,11 @@
-🚀 **Senior Computer Science Student | Developer | Security Enthusiast**  
+🚀 **Senior Computer Science Student | Developer | Full Stack Developer**  
 
 I'm deeply passionate about **network security and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
 
 ### 🔨 **What I’m Working On:**  
 - **Full-Stack Web App for My Church** – A bilingual (English/Spanish) platform to serve the community.  
 - **Personal Portfolio Web App** – Showcasing my skills and projects.  
+- **Resuzen** - An optimized resume builder that makes it easy for those in technical fields to create a clean resume without having to worry about formatting.
 
 ### 💡 **Looking to Collaborate On:**  
 - **Raspberry Pi Projects** – Exploring creative hardware-software integrations.  
