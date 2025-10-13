@@ -1,4 +1,4 @@
-🚀 **Senior Computer Science Student | Developer | Full Stack Developer**  
+🚀 **Senior Computer Science Student | Full Stack Developer**  
 
 I'm deeply passionate about **network security and software development**, always seeking to bridge the gap between hardware and software in innovative ways.  
 
