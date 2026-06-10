@@ -5,8 +5,8 @@ I’m deeply passionate about **software development and building tools that cre
 ### 🔨 **What I’m Working On:**
 
 - **Steward** *(Enoch Studio)* – A faith-based wellness reminder app built around bodily stewardship, targeting iOS, web, and browser extension with a church B2B integration angle.
-- **Full-Stack Web App for My Church** – A bilingual (English/Spanish) platform to serve the community.
-- **Personal Portfolio Web App** – Showcasing my skills and projects.
+- [**Full-Stack Web App for My Church**](https://www.casadediosinc.org/) – A bilingual (English/Spanish) platform to serve the community.
+- [**Personal Portfolio Web App**](https://jonathancontreras.com/) – Showcasing my skills and projects.
 - [**Resuzen**](https://www.resuzen.com/) – An optimized resume builder that makes it easy for those in technical fields to create a clean resume without worrying about formatting.
 
 ### 🏢 **Enoch Studio**
