@@ -11,7 +11,7 @@ I’m deeply passionate about **software development and building tools that cre
 
 ### 🏢 **Enoch Studio**
 
-I run **Enoch Studio**, a freelance web development agency serving churches, nonprofits, and small businesses. We focus on building meaningful digital presences for mission-driven organizations.
+I run [**Enoch Studio**](https://www.enochs.studio/), a freelance web development agency serving churches, nonprofits, and small businesses. We focus on building meaningful digital presences for mission-driven organizations.
 
 ### 💡 **Looking to Collaborate On:**
 
